@@ -1,5 +1,5 @@
 
-#JavaScript30
+# JavaScript30
 Project 1 of Wes Bos's 30 JavaScript projects in 30 days
 
 A simple JS drum machine
